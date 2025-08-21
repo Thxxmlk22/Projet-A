@@ -1,11 +1,11 @@
 {
+  "scripts": {
+  "start": "node node.js"
+},
   "name": "acr-lite",
   "version": "1.0.0",
   "description": "Single-file web app (Node.js + Express + SQLite)",
   "main": "node.js",
-  "scripts": {
-    "start": "node node.js"
-  },
   "dependencies": {
     "express": "^4.17.1",
     "better-sqlite3": "^11.8.1",
@@ -16,3 +16,4 @@
     "mime-types": "^2.1.27"
   }
 }
+
